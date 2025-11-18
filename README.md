@@ -49,4 +49,5 @@ printf("\n All frames sent successfully.\n");
 
 
 
-# RESULT: Thus the Go-Back-N protocol-Sliding Window was implemented and the output is verified successfully.
+# RESULT:
+Thus the Go-Back-N protocol-Sliding Window was implemented and the output is verified successfully.
